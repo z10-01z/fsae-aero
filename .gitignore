@@ -1,0 +1,9 @@
+workspace/
+*.aero.json
+*.CATPart
+*.CATProduct
+*.sim
+*.stl
+*.vtu
+*.vtp
+*.log
